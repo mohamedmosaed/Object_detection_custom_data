@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>GYBX6992.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\GYBX6992.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>561</ymin>
+			<xmax>920</xmax>
+			<ymax>1083</ymax>
+		</bndbox>
+	</object>
+</annotation>

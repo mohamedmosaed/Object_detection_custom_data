@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>HOHD3230.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\HOHD3230.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1342</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>94</ymin>
+			<xmax>950</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

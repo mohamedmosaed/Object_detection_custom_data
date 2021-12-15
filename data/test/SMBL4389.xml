@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>SMBL4389.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\SMBL4389.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>686</ymin>
+			<xmax>1447</xmax>
+			<ymax>1398</ymax>
+		</bndbox>
+	</object>
+</annotation>

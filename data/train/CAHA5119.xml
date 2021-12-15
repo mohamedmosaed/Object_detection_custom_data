@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CAHA5119.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\CAHA5119.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>27</ymin>
+			<xmax>1190</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>

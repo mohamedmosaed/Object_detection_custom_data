@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>QFXU2857.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\QFXU2857.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1150</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>167</ymin>
+			<xmax>738</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

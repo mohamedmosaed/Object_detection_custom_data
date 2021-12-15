@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CXEF6447.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\CXEF6447.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>275</ymin>
+			<xmax>416</xmax>
+			<ymax>873</ymax>
+		</bndbox>
+	</object>
+</annotation>

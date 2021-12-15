@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IXPO6735.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\IXPO6735.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>348</ymin>
+			<xmax>1263</xmax>
+			<ymax>1237</ymax>
+		</bndbox>
+	</object>
+</annotation>

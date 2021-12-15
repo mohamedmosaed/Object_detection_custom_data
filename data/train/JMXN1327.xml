@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>JMXN1327.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\JMXN1327.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>21</ymin>
+			<xmax>1409</xmax>
+			<ymax>1407</ymax>
+		</bndbox>
+	</object>
+</annotation>

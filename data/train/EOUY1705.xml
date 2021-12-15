@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>EOUY1705.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\EOUY1705.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>80</ymin>
+			<xmax>426</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

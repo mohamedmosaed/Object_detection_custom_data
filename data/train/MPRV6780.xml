@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>MPRV6780.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\MPRV6780.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>276</ymin>
+			<xmax>678</xmax>
+			<ymax>950</ymax>
+		</bndbox>
+	</object>
+</annotation>

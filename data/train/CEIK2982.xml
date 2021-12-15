@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CEIK2982.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\CEIK2982.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>425</ymin>
+			<xmax>521</xmax>
+			<ymax>1074</ymax>
+		</bndbox>
+	</object>
+</annotation>

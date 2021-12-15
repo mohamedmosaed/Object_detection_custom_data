@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>UKWG4607.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\UKWG4607.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>350</ymin>
+			<xmax>557</xmax>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+</annotation>

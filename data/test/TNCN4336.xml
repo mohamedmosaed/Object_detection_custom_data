@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>TNCN4336.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\TNCN4336.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>397</ymin>
+			<xmax>682</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>

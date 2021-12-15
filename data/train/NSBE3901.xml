@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>NSBE3901.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\NSBE3901.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>267</ymin>
+			<xmax>1115</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+</annotation>

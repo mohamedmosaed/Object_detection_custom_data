@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IZRP4452.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\IZRP4452.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>358</ymin>
+			<xmax>1136</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>

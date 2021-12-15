@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>FRSV5105.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\FRSV5105.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>553</ymin>
+			<xmax>456</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+</annotation>

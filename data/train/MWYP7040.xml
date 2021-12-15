@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>MWYP7040.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\MWYP7040.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>308</ymin>
+			<xmax>593</xmax>
+			<ymax>708</ymax>
+		</bndbox>
+	</object>
+</annotation>

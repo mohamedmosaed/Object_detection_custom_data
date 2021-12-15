@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CAUE9346.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\CAUE9346.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>165</ymin>
+			<xmax>557</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

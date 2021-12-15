@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>FIOG1754.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\FIOG1754.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>659</ymin>
+			<xmax>555</xmax>
+			<ymax>1270</ymax>
+		</bndbox>
+	</object>
+</annotation>

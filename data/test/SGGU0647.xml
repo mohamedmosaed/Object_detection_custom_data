@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>SGGU0647.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\SGGU0647.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>478</ymin>
+			<xmax>448</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

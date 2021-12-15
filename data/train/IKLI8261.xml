@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IKLI8261.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\IKLI8261.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>75</ymin>
+			<xmax>452</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

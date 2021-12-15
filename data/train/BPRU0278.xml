@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>BPRU0278.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\BPRU0278.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>82</ymin>
+			<xmax>527</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>OPAM3370.JPG</filename>
+	<path>C:\Users\mosae\USD Workes\AAI 521 Intro to Computer Vision\final project\images\OPAM3370.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>807</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LILY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>31</ymin>
+			<xmax>516</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
